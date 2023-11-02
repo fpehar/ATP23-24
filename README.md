@@ -11,5 +11,6 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
     title: Ime Prezime - naslovnica
     ---
 ```
-- Dodajte neki sadržaj koristeći [markdown](https://guides.github.com/features/mastering-markdown/) sintaksu. 
+- Dodajte neki sadržaj koristeći [markdown](https://guides.github.com/features/mastering-markdown/) sintaksu.
+    - upotrijebite što veći "arsenal" novonaučenih tagova koji se standardno koriste u Markdownu, npr. `#` za naslovne razine, `[]()` za izradu linkova, `[]()` za umetanje slika i sl.
 - Spustite se na dno stranice i odaberite `Commit new file` 
