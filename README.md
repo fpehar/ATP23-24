@@ -17,4 +17,6 @@ GitHub Pro je besplatan za sve studente, te nudi brojne dodatne pogodnosti. Stud
 ```
 - Dodajte neki sadržaj koristeći [markdown](https://guides.github.com/features/mastering-markdown/) sintaksu.
     - upotrijebite što veći "arsenal" novonaučenih tagova koji se standardno koriste u Markdownu, npr. `#` za naslovne razine, `[]()` za izradu linkova, `![]()` za umetanje slika i sl.
-- Spustite se na dno stranice i odaberite `Commit new file` 
+- Spustite se na dno stranice i odaberite `Commit new file`
+
+## Drugo poglavlje
