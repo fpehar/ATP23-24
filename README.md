@@ -4,7 +4,7 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 
 GitHub je mrežno sjedište koje omogućava pohranu Git repozitorija na internetu. Git omogućava upravljanje privatnim i javnim repozitorijima koji se mogu dijeliti s drugih korisnicima.
 
-GitHub Pro je besplatan za sve studente, te nudi brojne dodatne pogodnosti. Studentski račun možete otvoriti na sljedećoj adresi:<https://education.github.com/students>](https://education.github.com/students) ili <https://education.github.com/discount_requests/student_application>](https://education.github.com/discount_requests/student_application)
+GitHub Pro je besplatan za sve studente, te nudi brojne dodatne pogodnosti. Studentski račun možete otvoriti na sljedećoj adresi:<https://education.github.com/students> ili <https://education.github.com/discount_requests/student_application>
 
 ## Dodavanje dokumenata u dijeljeni repozitorij
 - Dodajte novu datoteku u dijeljeni repozitorij
