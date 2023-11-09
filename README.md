@@ -1,4 +1,4 @@
-# ATP23-24
+# Akademsko i tehničko pisanje, akad. god. 2023.-2024.
 
 Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com/) za izradu jednostavnih stranica i dokumentacije.
 
