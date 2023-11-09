@@ -20,3 +20,6 @@ GitHub Pro je besplatan za sve studente, te nudi brojne dodatne pogodnosti. Stud
 - Spustite se na dno stranice i odaberite `Commit new file`
 
 ## GitHub tutorial
+
+- Commit
+- Pull request
