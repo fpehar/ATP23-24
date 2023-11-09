@@ -19,4 +19,4 @@ GitHub Pro je besplatan za sve studente, te nudi brojne dodatne pogodnosti. Stud
     - upotrijebite što veći "arsenal" novonaučenih tagova koji se standardno koriste u Markdownu, npr. `#` za naslovne razine, `[]()` za izradu linkova, `![]()` za umetanje slika i sl.
 - Spustite se na dno stranice i odaberite `Commit new file`
 
-## Drugo poglavlje
+## GitHub tutorial
